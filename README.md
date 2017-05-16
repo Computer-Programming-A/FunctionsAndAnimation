@@ -2,9 +2,9 @@ Functions And Animation
 =======================
 In this assignment you will write a program with an animation. The animation is created by drawing the same shape or shapes over and over again. Each time the shape is drawn, some aspect will change. You may use any drawing function that you would like, your animation does not have to look like the one above. You may find the following example of a simple animation program helpful:
  <pre><code>
-   `diam = 40
-    def setup():
-        size(300,300)
+   diam = 40
+   def setup():
+       size(300,300)
        noFill()
      
    def draw():
