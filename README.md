@@ -48,6 +48,5 @@ Samples of Student Work
 [Brian](https://trinket.io/embed/python/e71de91ca7?outputOnly=true&runOption=run&start=result)   
 [Winnie](https://trinket.io/embed/python/9d170cb4b1?outputOnly=true&runOption=run&start=result)   
 [Connie](https://trinket.io/embed/python/218f78c824?outputOnly=true&runOption=run&start=result)   
-[Rebecca](https://trinket.io/embed/python/a4af3643af?outputOnly=true&runOption=run&start=result)   
 [Ryan](https://trinket.io/embed/python/0c57022ca5?outputOnly=true&runOption=run&start=result)   
 [Brenton](https://trinket.io/embed/python/d7c00c274b?outputOnly=true&runOption=run&start=result)   
