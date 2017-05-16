@@ -20,6 +20,7 @@ Program Requirements
 --------------------
 * Your program will need variables for each aspect of the shape that changes
 * It will need at least two functions definitions: `def setup()` and `def draw()`.   
+
 Optional   
 --------
 * You might try putting `smooth()` in `def setup()`
