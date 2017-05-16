@@ -50,3 +50,4 @@ Samples of Student Work
 [Connie](https://trinket.io/embed/python/218f78c824?outputOnly=true&runOption=run&start=result)   
 [Ryan](https://trinket.io/embed/python/0c57022ca5?outputOnly=true&runOption=run&start=result)   
 [Brenton](https://trinket.io/embed/python/d7c00c274b?outputOnly=true&runOption=run&start=result)   
+[Xiao Qin](https://trinket.io/embed/python/3343236f33?outputOnly=true&runOption=run&start=result)   
