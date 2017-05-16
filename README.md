@@ -39,3 +39,6 @@ Samples of Student Work
 [Alyssa](https://trinket.io/embed/python/eb659f08e4?outputOnly=true&runOption=run&start=result)   
 [Emma](https://trinket.io/embed/python/d8eec037c2?outputOnly=true&runOption=run&start=result)   
 [Annie](https://trinket.io/embed/python/3f4e2288bd?outputOnly=true&runOption=run&start=result)   
+[Andrew](https://trinket.io/embed/python/c7c0bdc791?outputOnly=true&runOption=run&start=result)   
+[Henry](https://trinket.io/embed/python/f9fbbaceb1?outputOnly=true&runOption=run&start=result)   
+[Jeffrey](https://trinket.io/embed/python/e99aec795c?outputOnly=true&runOption=run&start=result)   
