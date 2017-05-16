@@ -27,5 +27,4 @@ Optional
 
 Samples of Student Work   
 -----------------------   
-Nghi   
-<iframe src="https://trinket.io/embed/python/88d0ffaaf1?outputOnly=true&runOption=run&start=result" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+[Nghi](https://trinket.io/embed/python/88d0ffaaf1?outputOnly=true&runOption=run&start=result)
