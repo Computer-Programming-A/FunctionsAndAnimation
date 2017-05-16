@@ -16,10 +16,12 @@ def draw():
   diam = diam + 5
 run()
 </code></pre>   
-Program Requirements:   
+Program Requirements
+--------------------
 * Your program will need variables for each aspect of the shape that changes
 * It will need at least two functions definitions: `def setup()` and `def draw()`.   
 Optional   
+--------
 * You might try putting `smooth()` in `def setup()`
 * A little opacity in combination with `smooth()` can achieve some surprising results
 * You may want to include an `if` statement, so that if your shape gets too big, you can erase the screen and set the variables back to their initial values.
