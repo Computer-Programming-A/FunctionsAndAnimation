@@ -1,7 +1,7 @@
 Functions And Animation
 =======================
 In this assignment you will write a program with an animation. The animation is created by drawing the same shape or shapes over and over again. Each time the shape is drawn, some aspect will change. You may use any drawing functions that you would like, your animation does not have to look any other. Scroll down and click on the links below to see samples of other students work. Have fund and be creative! You may find the following example of a simple animation program helpful:
-<pre><code>
+```python
 from processing import *
 
 diam = 40
@@ -16,7 +16,7 @@ def draw():
   diam = diam + 5
   
 run()
-</code></pre>
+```
 Program Requirements
 --------------------
 * Your program will need variables for each aspect of the shape that changes
