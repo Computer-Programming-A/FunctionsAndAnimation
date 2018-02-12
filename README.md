@@ -26,7 +26,7 @@ Trinket allows you to write, run and share Python programs online.
 * Choose *New Trinket | Python* (Not Python3)
 * Add `from processing import *` at the top of your program
 * Add `run()` at the bottom
-* *Save* your trinket program
+* Replace *Untitled* with the name of your program and choose *Save*
 * To submit the URL of your finished program to Google classroom, choose *Share | Link*
 
 Optional   
