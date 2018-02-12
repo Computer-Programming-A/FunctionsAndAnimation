@@ -18,6 +18,16 @@ Program Requirements
 * Your program will need variables for each aspect of the shape that changes
 * It will need at least two functions definitions: `def setup()` and `def draw()`  
 
+Putting your program on Trinket
+--------------------
+Trinket allows you to write, run and share Python programs online. 
+* Go to [trinket.io](https://trinket.io/) and sign up
+* Choose *New Trinket | Python* (Not Python3)
+* Add `from processing import *` at the top of your program
+* Add `run()` at the bottom
+* *Save* your trinket program
+* To submit the URL of your finished program to Google classroom, choose *Share | Link*
+
 Optional   
 --------
 * You might try putting a call to `smooth()` in `def setup()`
