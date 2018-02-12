@@ -17,6 +17,7 @@ Program Requirements
 --------------------
 * Your program will need variables for each aspect of the shape that changes
 * It will need at least two functions definitions: `def setup()` and `def draw()`  
+* You will need to submit your finished program by putting it on Trinket and submitting the trinket URL to Google classroom
 
 Putting your program on Trinket
 --------------------
