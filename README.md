@@ -38,6 +38,9 @@ Optional
 
 Samples of Student Work   
 -----------------------   
+[David](https://trinket.io/embed/python/22e0879ae0?outputOnly=true&runOption=run&start=result)   
+[Marc](https://trinket.io/embed/python/ee4d2b35a3?outputOnly=true&runOption=run&start=result)   
+[David](https://trinket.io/embed/python/f1331ece45?outputOnly=true&runOption=run&start=result)   
 [Jan](https://trinket.io/embed/python/bab5598f75?outputOnly=true&runOption=run&start=result)   
 [Andrew](https://trinket.io/embed/python/b74d7af066?outputOnly=true&runOption=run&start=result)
 [Nghi](https://trinket.io/embed/python/88d0ffaaf1?outputOnly=true&runOption=run&start=result)   
