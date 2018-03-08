@@ -39,6 +39,7 @@ Optional
 Samples of Student Work   
 -----------------------   
 [Doris](https://trinket.io/embed/python/f210274aac?outputOnly=true&runOption=run&start=result)   
+[Briana](https://trinket.io/embed/python/73fa1789cb?outputOnly=true&runOption=run&start=result)   
 [David](https://trinket.io/embed/python/22e0879ae0?outputOnly=true&runOption=run&start=result)   
 [Marc](https://trinket.io/embed/python/ee4d2b35a3?outputOnly=true&runOption=run&start=result)   
 [David](https://trinket.io/embed/python/f1331ece45?outputOnly=true&runOption=run&start=result)   
