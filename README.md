@@ -1,39 +1,47 @@
 Functions And Animation
 =======================
-In this assignment you will write a program with an animation. The animation is created by drawing the same shape or shapes over and over again. Each time the shape is drawn, some aspect will change. You may use any drawing functions that you would like, your animation does not have to look any other. Scroll down and click on the links below to see samples of other students work. Have fund and be creative! You may find the following example of a simple animation program helpful:
-```python
-diam = 40
+P5's `draw()` function is repeatedly run 60 times a second. Try running the following simple animation program to see how it works:
+```javascript
+let diam = 40;
 
-def setup():
-  size(300,300)
-  noFill()
+function setup() {
+  createCanvas(400, 400);
+  noFill();
+}
 
-def draw():
-  global diam
-  ellipse(150, 150, diam, diam)
-  diam = diam + 5
+function draw() {
+  circle(200, 200, diam);
+  diam = diam + 5;
+}
 ```
+We can slow down `draw()` with `frameRate()`. A frame rate of 20 is only one third as fast as the default rate of 60. Now try running this version of the program to see how it works:
+```javascript
+let diam = 40;
+function setup() {
+  createCanvas(400, 400);
+  noFill();
+  frameRate(20);
+}
+
+function draw() {
+  circle(200, 200, diam);
+  diam = diam + 5;
+}
+```
+In this assignment you will write your own program that uses the repeating `draw()` function to create an animation. The animation is created by drawing the same shape or shapes over and over again. Each time the shape is drawn, some aspect will change. You may use any drawing functions that you would like, your animation does not have to look any other. Scroll down and click on the links below to see samples of other students work. Have fund and be creative! 
 Program Requirements
 --------------------
 * Your program will need variables for each aspect of the shape that changes
-* It will need at least two functions definitions: `def setup()` and `def draw()`  
-* You will need to submit your finished program by putting it on Trinket and submitting the trinket URL to Google classroom
+* It will need at least two functions definitions: `function setup()` and `function draw()`  
+* Submit the URL of your finished program to Google classroom
 
-Putting your program on Trinket
---------------------
-Trinket allows you to write, run and share Python programs online. 
-* Go to [trinket.io](https://trinket.io/) and sign up
-* Choose *New Trinket | Python* (Not Python3)
-* Add `from processing import *` at the top of your program
-* Add `run()` at the bottom
-* Replace *Untitled* with the name of your program and choose *Save*
-* To submit the URL of your finished program to Google classroom, choose *Share | Link*
+
 
 Optional   
 --------
 * You might try putting a call to `smooth()` in `def setup()`
 * A little opacity in combination with `smooth()` can achieve some surprising results
-* You may want to include an `if` statement, so that if your shape gets too big or goes off the screen, you can erase the screen and set the variables back to their initial values.
+* You may want to include an [`if`](https://p5js.org/reference/#/p5/if-else) statement, so that if your shape gets too big or goes off the screen, you can erase the screen and set the variables back to their initial values.
 * You may want to call the `frameRate()` function in `def setup()` to adjust how quickly the screen is drawn.   
 
 Samples of Student Work   
