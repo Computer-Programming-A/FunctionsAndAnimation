@@ -28,7 +28,9 @@ function draw() {
   diam = diam + 5;
 }
 ```
-In this assignment you will write your own program that uses the repeating `draw()` function to create an animation. The animation is created by drawing the same shape or shapes over and over again. Each time the shape is drawn, some aspect will change. You may use any drawing functions that you would like, your animation does not have to look any other. Scroll down and click on the links below to see samples of other students work. Have fund and be creative! 
+
+In this assignment you will write your own program that uses the repeating `draw()` function to create an animation. The animation is created by drawing the same shape or shapes over and over again. Each time the shape is drawn, some aspect will change. You may use any drawing functions that you would like, your animation does not have to look any other. Scroll down and click on the links below to see samples of other students work. Have fund and be creative!    
+
 Program Requirements
 --------------------
 * Your program will need variables for each aspect of the shape that changes
