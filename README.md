@@ -48,6 +48,11 @@ Optional
 
 Samples of Student Work   
 -----------------------   
+[Michaela](https://editor.p5js.org/michaela29/present/IY5W2TjE)   
+[Katelyn](https://editor.p5js.org/jizhang6/full/60YQnrNv)   
+[Curtis](https://editor.p5js.org/culee/present/QKntQP8Y)    
+[Duan](https://editor.p5js.org/Duan25/present/cGVlVGgc)   
+[Nikhita](https://editor.p5js.org/Bluesnow/full/pGp93tiu)   
 [Doris](https://trinket.io/embed/python/f210274aac?outputOnly=true&runOption=run&start=result)   
 [Briana](https://trinket.io/embed/python/73fa1789cb?outputOnly=true&runOption=run&start=result)   
 [David](https://trinket.io/embed/python/22e0879ae0?outputOnly=true&runOption=run&start=result)   
