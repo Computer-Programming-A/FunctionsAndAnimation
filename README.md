@@ -1,5 +1,7 @@
 Functions And Animation
 =======================
+In this assignment you will write a program that makes shapes change over time to create an animation. You may find slides 146 - 178 in the [slide presentation](https://docs.google.com/presentation/d/1fm_Di0qR4HpRWTf8tJtcW3u5by3OrilfXIPZ517K1js/edit?usp=sharing) helpful.  
+
 P5's `draw()` function is repeatedly run 60 times a second. Try running the following simple animation program to see how it works:
 ```javascript
 let diam = 40;
