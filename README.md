@@ -41,10 +41,10 @@ Program Requirements
 
 Optional   
 --------
-* You might try putting a call to `smooth()` in `def setup()`
+* You might try putting a call to `smooth()` in `function setup()`
 * A little opacity in combination with `smooth()` can achieve some surprising results
 * You may want to include an [`if`](https://p5js.org/reference/#/p5/if-else) statement, so that if your shape gets too big or goes off the screen, you can erase the screen and set the variables back to their initial values.
-* You may want to call the `frameRate()` function in `def setup()` to adjust how quickly the screen is drawn.   
+* You may want to call the `frameRate()` function in `function setup()` to adjust how quickly the screen is drawn.   
 
 Samples of Student Work   
 -----------------------   
