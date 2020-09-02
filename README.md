@@ -35,7 +35,7 @@ Program Requirements
 --------------------
 * Your program will need variables for each aspect of the shape that changes
 * It will need at least two functions definitions: `function setup()` and `function draw()`  
-* Submit the URL of your finished program to Google classroom
+* Submit the URL of your finished program by choosing *File | Share* and copying the URL in the *Present* box to Google classroom
 
 
 
