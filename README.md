@@ -4,7 +4,7 @@ In this assignment you will write a program that makes shapes change over time t
 
 P5's `draw()` function is repeatedly run 60 times a second. Try running the following simple animation program to see how it works:
 ```javascript
-let diam = 40;
+var diam = 40;
 
 function setup() {
   createCanvas(400, 400);
@@ -18,7 +18,7 @@ function draw() {
 ```
 We can slow down `draw()` with `frameRate()`. A frame rate of 20 is only one third as fast as the default rate of 60. Now try running this version of the program to see how it works:
 ```javascript
-let diam = 40;
+var diam = 40;
 function setup() {
   createCanvas(400, 400);
   noFill();
