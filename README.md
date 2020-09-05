@@ -50,8 +50,10 @@ Optional
 
 Samples of Student Work   
 -----------------------   
+[Juan](https://editor.p5js.org/jucalvohuerta/present/7Cg7LWTVt)   
 [Tobias](https://editor.p5js.org/tozuercher/present/VzuH67YTT)   
 [Niko](https://editor.p5js.org/NikoTsu/present/W1TZ2e-1r)   
+[Benjamin](https://studio.code.org/projects/gamelab/VnnQXQrHuT8ceO4T1lkBiLzwxqJiKgtqaQjSiHw0sKU)   
 [Michaela](https://editor.p5js.org/michaela29/present/IY5W2TjE)   
 [Katelyn](https://editor.p5js.org/jizhang6/full/60YQnrNv)   
 [Curtis](https://editor.p5js.org/culee/present/QKntQP8Y)    
