@@ -1,6 +1,6 @@
 Functions And Animation
 =======================
-In this assignment you will write a program that makes shapes change over time to create an animation. You may find slides 146 - 178 in the [slide presentation](https://docs.google.com/presentation/d/1fm_Di0qR4HpRWTf8tJtcW3u5by3OrilfXIPZ517K1js/edit?usp=sharing) helpful.  
+In this assignment you will write a program using [P5](https://editor.p5js.org/) that makes shapes change over time to create an animation. You may find slides 146 - 181 in the [slide presentation](https://docs.google.com/presentation/d/1fm_Di0qR4HpRWTf8tJtcW3u5by3OrilfXIPZ517K1js/edit?usp=sharing) helpful.  
 
 P5's `draw()` function is repeatedly run 60 times a second. Try running the following simple animation program to see how it works:
 ```javascript
@@ -31,7 +31,7 @@ function draw() {
 }
 ```
 
-In this assignment you will write your own program that uses the repeating `draw()` function to create an animation. The animation is created by drawing the same shape or shapes over and over again. Each time the shape is drawn, some aspect will change. You may use any drawing functions that you would like, your animation does not have to look any other. Scroll down and click on the links below to see samples of other students work. Have fund and be creative!    
+For this assignment you will write your own program that uses the repeating `draw()` function to create an animation. The animation is created by drawing the same shape or shapes over and over again, with a small pause between each change. Each time the shape is drawn, some aspect will change. You may use any drawing functions that you would like, your animation does not have to look any other. Scroll down and click on the links below to see samples of other students work. Have fund and be creative!    
 
 Program Requirements
 --------------------
