@@ -51,6 +51,7 @@ Optional
 Samples of Student Work   
 -----------------------   
 [Sally](https://editor.p5js.org/sahong3/present/EAeJh3fOg)  
+[Damien](https://editor.p5js.org/dabogdon/present/dzmQig5nj)   
 [Rachel](https://editor.p5js.org/raroyer/present/RhvJ97eGp)   
 [Miachael](https://editor.p5js.org/mimui/present/stHN1OdDX)   
 [Benjamin](https://studio.code.org/projects/gamelab/bTJqPpBTQP6eWc4D24BbpY7q4DpICyeNrl71HDooxR8)   
