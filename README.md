@@ -50,6 +50,7 @@ Optional
 
 Samples of Student Work   
 -----------------------   
+[Cyrus](https://editor.p5js.org/Wowbowbow/present/EKyfqWYqn)    
 [Sally](https://editor.p5js.org/sahong3/present/EAeJh3fOg)  
 [Damien](https://editor.p5js.org/dabogdon/present/dzmQig5nj)   
 [Rachel](https://editor.p5js.org/raroyer/present/RhvJ97eGp)   
