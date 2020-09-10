@@ -50,10 +50,12 @@ Optional
 
 Samples of Student Work   
 -----------------------   
+[Jennie](https://editor.p5js.org/jilin20/present/8cAVGZ6qX)   
 [Dat](https://editor.p5js.org/tuduong1/present/v5J5r-tbL)   
 [Cyrus](https://editor.p5js.org/Wowbowbow/present/EKyfqWYqn)    
 [Sally](https://editor.p5js.org/sahong3/present/EAeJh3fOg)  
 [Damien](https://editor.p5js.org/dabogdon/present/dzmQig5nj)   
+[Michelle](https://editor.p5js.org/michelle0/present/jS6sQi2lY)   
 [Rachel](https://editor.p5js.org/raroyer/present/RhvJ97eGp)   
 [Miachael](https://editor.p5js.org/mimui/present/stHN1OdDX)   
 [Benjamin](https://studio.code.org/projects/gamelab/bTJqPpBTQP6eWc4D24BbpY7q4DpICyeNrl71HDooxR8)   
