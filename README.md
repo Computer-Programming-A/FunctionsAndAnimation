@@ -50,6 +50,7 @@ Optional
 
 Samples of Student Work   
 -----------------------   
+[Michael](https://editor.p5js.org/mibennett1/present/Nml25fTqF)   
 [Jennie](https://editor.p5js.org/jilin20/present/8cAVGZ6qX)   
 [Dat](https://editor.p5js.org/tuduong1/present/v5J5r-tbL)   
 [Cyrus](https://editor.p5js.org/Wowbowbow/present/EKyfqWYqn)    
