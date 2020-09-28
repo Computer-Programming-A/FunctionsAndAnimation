@@ -54,6 +54,7 @@ Samples of Student Work
 [Jennie](https://editor.p5js.org/jilin20/present/8cAVGZ6qX)   
 [Dat](https://editor.p5js.org/tuduong1/present/v5J5r-tbL)   
 [Cyrus](https://editor.p5js.org/Wowbowbow/present/EKyfqWYqn)    
+[Paolo](https://editor.p5js.org/paolo415/present/MaHyIgOXa)   
 [Sally](https://editor.p5js.org/sahong3/present/EAeJh3fOg)  
 [Damien](https://editor.p5js.org/dabogdon/present/dzmQig5nj)   
 [Michelle](https://editor.p5js.org/michelle0/present/jS6sQi2lY)   
