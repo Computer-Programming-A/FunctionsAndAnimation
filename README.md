@@ -50,6 +50,7 @@ Optional
 
 Samples of Student Work   
 -----------------------   
+[Ashley](https://editor.p5js.org/ashan-voltaic/present/GsaOFoh_B)   
 [Irisa](https://editor.p5js.org/irchu1/present/GYNfsvIY1)   
 [Michael](https://editor.p5js.org/mibennett1/present/Nml25fTqF)   
 [Joanna](https://editor.p5js.org/jogaray-velazquez/present/aqVVk50nb)   
@@ -58,8 +59,10 @@ Samples of Student Work
 [Dat](https://editor.p5js.org/tuduong1/present/v5J5r-tbL)   
 [Ailsa](https://editor.p5js.org/aiyale/present/ESh3yZ0eS)   
 [Joanne](https://editor.p5js.org/joguan/present/0ovEw4E0g)   
+[Sean](https://editor.p5js.org/sewong3/present/jjckswk1_)   
 [Joshua](https://editor.p5js.org/joshuapaza/present/o0TmTqZNw)   
 [Cyrus](https://editor.p5js.org/Wowbowbow/present/EKyfqWYqn)    
+[Tommy](https://editor.p5js.org/Touyen/present/JrpIFXHqI)   
 [Marissa](https://editor.p5js.org/maholmes/present/29c_z0Ffu)   
 [Paolo](https://editor.p5js.org/paolo415/present/MaHyIgOXa)   
 [Sally](https://editor.p5js.org/sahong3/present/EAeJh3fOg)  
